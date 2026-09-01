@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "configVersion": 1,
+  "draws": [
+    {
+      "id": "ps5",
+      "emoji": "🎮",
+      "title": "PlayStation 5",
+      "subtitle": "Grand Prize",
+      "entryFee": 2500,
+      "winnerCount": 1,
+      "color": "orange",
+      "imageUrl": "https://your-image-url.com/ps5.png"
+    },
+    {
+      "id": "gta6",
+      "emoji": "🔥",
+      "title": "GTA VI Ultimate Edition",
+      "subtitle": "2 Winners",
+      "entryFee": 500,
+      "winnerCount": 2,
+      "color": "purple",
+      "imageUrl": "https://your-image-url.com/gta6.png"
+    },
+    {
+      "id": "giftcard",
+      "emoji": "💵",
+      "title": "$50 Gift Card",
+      "subtitle": "5 Winners",
+      "entryFee": 2000,
+      "winnerCount": 5,
+      "color": "green",
+      "imageUrl": "https://your-image-url.com/giftcard.png"
+    }
+  ],
+  "winnerAnnouncement": {
+    "enabled": true,
+    "dateTime": "2026-09-11T20:00:00+05:30",
+    "timezone": "Asia/Kolkata"
+  },
+  "rules": [
+    "Each entry costs coins.",
+    "More entries = Higher chance of winning.",
+    "Multiple entries are allowed.",
+    "Winner announced on result date.",
+    "Fake information will be disqualified."
+  ]
+}
