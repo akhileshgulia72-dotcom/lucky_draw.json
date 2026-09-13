@@ -32,8 +32,8 @@
   ],
   "images": {
     "ps5": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/ps5%20(1).png",
-    "gta6": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/gta6.png",
-    "giftcard": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/giftcard.png"
+    "gta6": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta6.png?raw=true",
+    "giftcard": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/giftcard.png?raw=true"
   },
   "winnerAnnouncement": {
     "enabled": true,
