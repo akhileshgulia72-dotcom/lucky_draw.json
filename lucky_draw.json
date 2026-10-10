@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "configVersion": 3,
+  "configVersion": 4,
   "draws": [
     {
       "id": "ps5",
@@ -37,11 +37,11 @@
   },
   "winnerAnnouncement": {
     "enabled": true,
-    "dateTime": "2026-10-10T20:00:00+05:30",
+    "dateTime": "2026-10-30T20:00:00+05:30",
     "timezone": "Asia/Kolkata"
   },
   "rules": [
-    "LUCKY DRAW SEASON 1 WINNER ANNOUNCED — FOLLOW TELEGRAM CHANNEL TO GET WINNER'S NAME!! 😊",
+    "LUCKY DRAW SEASON 2 WINNER ANNOUNCED — FOLLOW TELEGRAM CHANNEL TO GET WINNER'S NAME!! 😊",
     "Each entry costs coins.",
     "More entries = Higher chance of winning.",
     "Multiple entries are allowed.",
