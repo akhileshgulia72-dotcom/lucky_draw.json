@@ -37,7 +37,7 @@
   },
   "winnerAnnouncement": {
     "enabled": true,
-    "dateTime": "2026-11-10T20:00:00+05:30",
+    "dateTime": "2026-11-20T20:00:00+05:30",
     "timezone": "Asia/Kolkata"
   },
   "rules": [
